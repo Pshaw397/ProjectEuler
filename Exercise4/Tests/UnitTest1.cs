@@ -1,6 +1,5 @@
 using NUnit.Framework;
 using Exercise4;
-
 namespace Tests
 {
     public class Tests
@@ -11,9 +10,10 @@ namespace Tests
         }
 
         [TestCase (10, 100, 9009)]
-        public void Test1(int minNum, int maxNum, int expected)
+        [TestCase(100, 1000, 906609)]
+        public void PalindromeTests(int minNum, int maxNum, int expected)
         {
-            Assert.Contains(9009, Program.Pal(minNum, maxNum));
+            Assert.AreEqual(expected, Program.Pal(minNum, maxNum));
         }
     }
 }
