@@ -9,20 +9,13 @@ namespace Tests
         {
         }
 
-        [Test]
-        public void SumOfMultiplesUpTo10()
+        [TestCase (10, 23)]
+        [TestCase(1000, 233168)]
+        public void SumOfMultiplesUpTo10(int multiple, int expected)
         {
             Program programObj = new Program();
-            int result = programObj.MultiplesOf(10);
-            Assert.AreEqual(23, result);
-        }
-
-        [Test]
-        public void SumOfMultiplesUpTo1000()
-        {
-            Program programObj = new Program();
-            int result = programObj.MultiplesOf(1000);
-            Assert.AreEqual(233168, result);
+            int result = programObj.MultiplesOf(multiple);
+            Assert.AreEqual(expected, result);
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mbm6WKJcWZTL5wzKNY31FS1d1Xsw+M+PnSOuE8fQqTxhzGc/44Hmj7d5rnU1L0BfpQRv3i636mxmzGjagRQHqQ==",
+  "dgSpecHash": "pGGsv+zbLBVbCD5Orf53WaCtlwyuwJLBVa2eP0xwNCpIxicEruVhATuCB8IijFkGGS51xP09YAkXxFzRHe4MXw==",
   "success": true,
-  "projectFilePath": "D:\\Sparta training\\C#\\ProjectEuler\\Exercise1\\ConsoleApp1\\Exercise1.csproj",
+  "projectFilePath": "D:\\Sparta training\\C#\\Project Euler\\Exercise1\\ConsoleApp1\\Exercise1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

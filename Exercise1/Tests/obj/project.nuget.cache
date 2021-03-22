@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I6vW9qW7obWtljg652tCO2RlZKAo2e+4KvGH4S1NfJ85q4f9vEcjG9GVfJNmYC0GjFHmCCphrUOcaZDxEXv83w==",
+  "dgSpecHash": "zBRMvhHLBhuWvIPApj2Wz3AQbkfEaDInPnhBzdMCqpYs5ialuej2Yqg1CwXqBTio+1h9UvynyTWqCp7dEsqtTw==",
   "success": true,
-  "projectFilePath": "D:\\Sparta training\\C#\\ProjectEuler\\Exercise1\\Tests\\Tests.csproj",
+  "projectFilePath": "D:\\Sparta training\\C#\\Project Euler\\Exercise1\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Phill\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\Phill\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
