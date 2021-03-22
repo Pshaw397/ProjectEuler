@@ -1,0 +1,16 @@
+D:\Sparta training\C#\ProjectEuler\Exercise3\Exercise3\bin\Debug\net5.0\Exercise3.exe
+D:\Sparta training\C#\ProjectEuler\Exercise3\Exercise3\bin\Debug\net5.0\Exercise3.deps.json
+D:\Sparta training\C#\ProjectEuler\Exercise3\Exercise3\bin\Debug\net5.0\Exercise3.runtimeconfig.json
+D:\Sparta training\C#\ProjectEuler\Exercise3\Exercise3\bin\Debug\net5.0\Exercise3.runtimeconfig.dev.json
+D:\Sparta training\C#\ProjectEuler\Exercise3\Exercise3\bin\Debug\net5.0\Exercise3.dll
+D:\Sparta training\C#\ProjectEuler\Exercise3\Exercise3\bin\Debug\net5.0\ref\Exercise3.dll
+D:\Sparta training\C#\ProjectEuler\Exercise3\Exercise3\bin\Debug\net5.0\Exercise3.pdb
+D:\Sparta training\C#\ProjectEuler\Exercise3\Exercise3\obj\Debug\net5.0\Exercise3.csprojAssemblyReference.cache
+D:\Sparta training\C#\ProjectEuler\Exercise3\Exercise3\obj\Debug\net5.0\Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sparta training\C#\ProjectEuler\Exercise3\Exercise3\obj\Debug\net5.0\Exercise3.AssemblyInfoInputs.cache
+D:\Sparta training\C#\ProjectEuler\Exercise3\Exercise3\obj\Debug\net5.0\Exercise3.AssemblyInfo.cs
+D:\Sparta training\C#\ProjectEuler\Exercise3\Exercise3\obj\Debug\net5.0\Exercise3.csproj.CoreCompileInputs.cache
+D:\Sparta training\C#\ProjectEuler\Exercise3\Exercise3\obj\Debug\net5.0\Exercise3.dll
+D:\Sparta training\C#\ProjectEuler\Exercise3\Exercise3\obj\Debug\net5.0\ref\Exercise3.dll
+D:\Sparta training\C#\ProjectEuler\Exercise3\Exercise3\obj\Debug\net5.0\Exercise3.pdb
+D:\Sparta training\C#\ProjectEuler\Exercise3\Exercise3\obj\Debug\net5.0\Exercise3.genruntimeconfig.cache

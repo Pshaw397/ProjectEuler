@@ -1,0 +1,32 @@
+D:\Sparta training\C#\Week 3\Exercise4\Exercise4\bin\Debug\net5.0\Exercise4.exe
+D:\Sparta training\C#\Week 3\Exercise4\Exercise4\bin\Debug\net5.0\Exercise4.deps.json
+D:\Sparta training\C#\Week 3\Exercise4\Exercise4\bin\Debug\net5.0\Exercise4.runtimeconfig.json
+D:\Sparta training\C#\Week 3\Exercise4\Exercise4\bin\Debug\net5.0\Exercise4.runtimeconfig.dev.json
+D:\Sparta training\C#\Week 3\Exercise4\Exercise4\bin\Debug\net5.0\Exercise4.dll
+D:\Sparta training\C#\Week 3\Exercise4\Exercise4\bin\Debug\net5.0\ref\Exercise4.dll
+D:\Sparta training\C#\Week 3\Exercise4\Exercise4\bin\Debug\net5.0\Exercise4.pdb
+D:\Sparta training\C#\Week 3\Exercise4\Exercise4\obj\Debug\net5.0\Exercise4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sparta training\C#\Week 3\Exercise4\Exercise4\obj\Debug\net5.0\Exercise4.AssemblyInfoInputs.cache
+D:\Sparta training\C#\Week 3\Exercise4\Exercise4\obj\Debug\net5.0\Exercise4.AssemblyInfo.cs
+D:\Sparta training\C#\Week 3\Exercise4\Exercise4\obj\Debug\net5.0\Exercise4.csproj.CoreCompileInputs.cache
+D:\Sparta training\C#\Week 3\Exercise4\Exercise4\obj\Debug\net5.0\Exercise4.dll
+D:\Sparta training\C#\Week 3\Exercise4\Exercise4\obj\Debug\net5.0\ref\Exercise4.dll
+D:\Sparta training\C#\Week 3\Exercise4\Exercise4\obj\Debug\net5.0\Exercise4.pdb
+D:\Sparta training\C#\Week 3\Exercise4\Exercise4\obj\Debug\net5.0\Exercise4.genruntimeconfig.cache
+D:\Sparta training\C#\Week 3\Exercise4\Exercise4\obj\Debug\net5.0\Exercise4.csprojAssemblyReference.cache
+D:\Sparta training\C#\ProjectEuler\Exercise4\Exercise4\bin\Debug\net5.0\Exercise4.exe
+D:\Sparta training\C#\ProjectEuler\Exercise4\Exercise4\bin\Debug\net5.0\Exercise4.deps.json
+D:\Sparta training\C#\ProjectEuler\Exercise4\Exercise4\bin\Debug\net5.0\Exercise4.runtimeconfig.json
+D:\Sparta training\C#\ProjectEuler\Exercise4\Exercise4\bin\Debug\net5.0\Exercise4.runtimeconfig.dev.json
+D:\Sparta training\C#\ProjectEuler\Exercise4\Exercise4\bin\Debug\net5.0\Exercise4.dll
+D:\Sparta training\C#\ProjectEuler\Exercise4\Exercise4\bin\Debug\net5.0\ref\Exercise4.dll
+D:\Sparta training\C#\ProjectEuler\Exercise4\Exercise4\bin\Debug\net5.0\Exercise4.pdb
+D:\Sparta training\C#\ProjectEuler\Exercise4\Exercise4\obj\Debug\net5.0\Exercise4.csprojAssemblyReference.cache
+D:\Sparta training\C#\ProjectEuler\Exercise4\Exercise4\obj\Debug\net5.0\Exercise4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sparta training\C#\ProjectEuler\Exercise4\Exercise4\obj\Debug\net5.0\Exercise4.AssemblyInfoInputs.cache
+D:\Sparta training\C#\ProjectEuler\Exercise4\Exercise4\obj\Debug\net5.0\Exercise4.AssemblyInfo.cs
+D:\Sparta training\C#\ProjectEuler\Exercise4\Exercise4\obj\Debug\net5.0\Exercise4.csproj.CoreCompileInputs.cache
+D:\Sparta training\C#\ProjectEuler\Exercise4\Exercise4\obj\Debug\net5.0\Exercise4.dll
+D:\Sparta training\C#\ProjectEuler\Exercise4\Exercise4\obj\Debug\net5.0\ref\Exercise4.dll
+D:\Sparta training\C#\ProjectEuler\Exercise4\Exercise4\obj\Debug\net5.0\Exercise4.pdb
+D:\Sparta training\C#\ProjectEuler\Exercise4\Exercise4\obj\Debug\net5.0\Exercise4.genruntimeconfig.cache
